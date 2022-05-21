@@ -1,31 +1,24 @@
-Stellar by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Local Vancouver Freelance Makeup Artist
+
+Built using HTML, CSS, and Javascript. A freelance makeup artist website to win new clients!
+
+Link to project: https://rmkbeauty.netlify.app/
+
+<img src="https://media.giphy.com/media/4kGodwqQOQZUT2b2FF/giphy.gif" alt="Local freelance makeup artist website overview" height="100%" />
 
 
-Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
-I guess you can always tone down if it's a little too vibrant for you), a "sticky" in-page
-nav bar (powered by my Scrollex plugin), a separate generic page template (just in case
-you need one), and an assortment of pre-styled elements.
+## How It's Made:
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+**Tech used:**
+Tech used: HTML, CSS, JavaScript.
 
-(* = not included)
+The focus for this project was to make a clean, elegant website that matched the makeup artist's brand. I designed the website to be inviting to all potential clients. Also included a small contact me form to send to the makeup artists email.
 
-AJ
-aj@lkn.io | @ajlkn
+## Optimizations
 
+The client is happy with the site. However, if I had to make changes, I would create a blog section and more built out pages to promote SEO to bring in more clients.
 
-Credits:
+## Lessons Learned:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+I learned how buttons can be clicked in order to move throughout the page! Even though it's small, the ability for users to click the contact me form at the beginning of the page will bring in more clients rather than hiding the contact me section at the very bottom. Ease of use for users is everything.
 
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
