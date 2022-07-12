@@ -29,3 +29,5 @@ Take a look at these other examples that I have in my portfolio:
 Lucas Faustman Portfolio website: https://github.com/LucasFaustman/lucas-faustman-portfolio
 
 myPlayer.io: https://github.com/LucasFaustman/nba-Stat-Project
+
+Vancouver StarGazers Society APOD Web App with NASA API integration: https://github.com/LucasFaustman/vancouver-stargazers
