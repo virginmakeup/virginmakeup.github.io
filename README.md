@@ -31,3 +31,7 @@ Lucas Faustman Portfolio website: https://github.com/LucasFaustman/lucas-faustma
 myPlayer.io: https://github.com/LucasFaustman/nba-Stat-Project
 
 Vancouver StarGazers Society APOD Web App with NASA API integration: https://github.com/LucasFaustman/vancouver-stargazers
+
+My Small CRM : https://github.com/LucasFaustman/my-small-crm/tree/main
+
+Vancouver Life Hack Voter : https://github.com/LucasFaustman/life-hacks-project
